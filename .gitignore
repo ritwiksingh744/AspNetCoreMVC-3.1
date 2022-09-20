@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+/Asp.NetCore.BookStore/.vs/Asp.NetCore.BookStore
+/Asp.NetCore.BookStore/obj
